@@ -18,7 +18,7 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 ================================================================================================================
-<!-- TRUELY BEGINS HERE -->
+#<!-- TRUELY BEGINS HERE -->
 
 
 ### Day 1: Sep 23, Sunday
@@ -31,4 +31,9 @@
 <!-- 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
  -->
-1. No links (commented out original to see later).
+>1. No links (commented out original to see later).
+
+### Day 2: Sep 24, Monday
+
+**Today's Progress**: continued git and github tutorial on udemy and worked towards plans of 100 daysOfCode also read markdown tutorial of git so now I can do this :+1: and also :skull:
+

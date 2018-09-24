@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [September 23, Sunday, 2018].
 Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
 
 ### R1D2
+Dont really know what to do yet....
