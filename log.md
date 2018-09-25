@@ -37,3 +37,6 @@
 
 **Today's Progress**: continued git and github tutorial on udemy and worked towards plans of 100 daysOfCode also read markdown tutorial of git so now I can do this :+1: and also :skull:
 
+###Day 3: Sep 25, Tuesday
+
+**Today's Progress**: working on pokedex gui with python using tkinter library and some api. learning to do these for the first time. work in progress.
