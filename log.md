@@ -40,3 +40,13 @@
 ###Day 3: Sep 25, Tuesday
 
 **Today's Progress**: working on pokedex gui with python using tkinter library and some api. learning to do these for the first time. work in progress.
+
+...
+...
+...
+
+###Day 7: Oct 1, Monday
+
+**Today's Progress**: work on quote generator for movie and series. Had fun throughout the process.
+ code for today's work is in r1-log.md
+ 
